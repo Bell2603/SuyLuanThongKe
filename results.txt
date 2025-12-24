@@ -1,0 +1,22 @@
+============================================================
+BƯỚC 1. XÁC ĐỊNH MÔ HÌNH HỒI QUY
+Biến phụ thuộc: Giá nhà (Euro)
+============================================================
+
+============================================================
+BƯỚC 2. THỐNG KÊ MÔ TẢ DỮ LIỆU
+============================================================
+
+----- Thống kê mô tả: BIẾN ĐỊNH LƯỢNG -----
+Loại biến: Số chủ trước (p = 0.8591)
+Loại biến: Năm xây (p = 0.5834)
+Loại biến: Số phòng (p = 0.5697)
+Loại biến: Diện tích gara (p = 0.3993)
+Loại biến: Diện tích tầng hầm (p = 0.2776)
+Loại biến: Diện tích gác mái (p = 0.2351)
+Loại biến: Số phòng khách (p = 0.1716)
+Mô hình cuối cùng gồm các biến:
+- Hằng số
+- Diện tích sử dụng (m²)
+- Số tầng
+- Mức độ khu vực (1–10)
